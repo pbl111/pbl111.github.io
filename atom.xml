@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-07T12:42:20.980Z</updated>
+  <updated>2022-01-07T12:51:24.757Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2022/01/07/VS-code%E5%92%8Cmarkdown%E8%AF%AD%E6%B3%95%E4%BD%BF%E7%94%A8/"/>
     <id>http://example.com/2022/01/07/VS-code%E5%92%8Cmarkdown%E8%AF%AD%E6%B3%95%E4%BD%BF%E7%94%A8/</id>
     <published>2022-01-07T11:48:43.000Z</published>
-    <updated>2022-01-07T12:42:20.980Z</updated>
+    <updated>2022-01-07T12:51:24.757Z</updated>
     
     <content type="html"><![CDATA[<h1 id="VS-code使用"><a href="#VS-code使用" class="headerlink" title="VS code使用"></a>VS code使用</h1><h2 id="打开侧边预览"><a href="#打开侧边预览" class="headerlink" title="打开侧边预览"></a>打开侧边预览</h2><p>&ensp;&ensp; ctrl+shift+p -&gt; 输入markdown -&gt; 打开侧边预览 -&gt; ok</p><h1 id="markdown语法"><a href="#markdown语法" class="headerlink" title="markdown语法"></a>markdown语法</h1><ul><li><p>”#+空格+文字“  一级标题</p></li><li><p>“##+空格+文字”  二级标题</p></li><li><p>“###+空格+文字”  三级标题</p></li><li><p>段首空格的显示：“&amp;+ensp+;+空格+文字”</p></li></ul>]]></content>
     
