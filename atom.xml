@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-07T13:59:48.337Z</updated>
+  <updated>2022-01-08T12:48:24.393Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Crisper/cas9</title>
+    <title>Crispr/cas9</title>
     <link href="http://example.com/2022/01/07/Crispr-cas9/"/>
     <id>http://example.com/2022/01/07/Crispr-cas9/</id>
     <published>2022-01-07T13:10:08.000Z</published>
-    <updated>2022-01-07T13:59:48.337Z</updated>
+    <updated>2022-01-08T12:48:24.393Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h1><h2 id="基因编辑技术的发展"><a href="#基因编辑技术的发展" class="headerlink" title="基因编辑技术的发展"></a>基因编辑技术的发展</h2><ul><li>第一代： ZFN</li><li>第二代： TELEN</li><li>第三代： Crispr/cas9<h2 id="背景：基因修复的机制"><a href="#背景：基因修复的机制" class="headerlink" title="背景：基因修复的机制"></a>背景：基因修复的机制</h2></li><li>NHEJ(Non-homologous end joining)非同源性末端接合</li><li>HDR(homology directed repair)同源重组修复<h3 id="ZFN"><a href="#ZFN" class="headerlink" title="ZFN"></a>ZFN</h3><h3 id="TELEN"><a href="#TELEN" class="headerlink" title="TELEN"></a>TELEN</h3><h3 id="Crispr-cas9"><a href="#Crispr-cas9" class="headerlink" title="Crispr/cas9"></a>Crispr/cas9</h3><h4 id="crispr序列的发现"><a href="#crispr序列的发现" class="headerlink" title="crispr序列的发现"></a>crispr序列的发现</h4><h4 id="crispr-cas系统的生物学作用"><a href="#crispr-cas系统的生物学作用" class="headerlink" title="crispr/cas系统的生物学作用"></a>crispr/cas系统的生物学作用</h4></li></ul><h1 id="原理-crispr-cas系统的作用机制"><a href="#原理-crispr-cas系统的作用机制" class="headerlink" title="原理(crispr/cas系统的作用机制)"></a>原理(crispr/cas系统的作用机制)</h1><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;历史&quot;&gt;&lt;a href=&quot;#历史&quot; class=&quot;headerlink&quot; title=&quot;历史&quot;&gt;&lt;/a&gt;历史&lt;/h1&gt;&lt;h2 id=&quot;基因编辑技术的发展&quot;&gt;&lt;a href=&quot;#基因编辑技术的发展&quot; class=&quot;headerlink&quot; title=&quot;基因编辑技术的</summary>
+      
     
     
     
@@ -34,9 +41,9 @@
     <link href="http://example.com/2022/01/07/VS-code%E5%92%8Cmarkdown%E8%AF%AD%E6%B3%95%E4%BD%BF%E7%94%A8/"/>
     <id>http://example.com/2022/01/07/VS-code%E5%92%8Cmarkdown%E8%AF%AD%E6%B3%95%E4%BD%BF%E7%94%A8/</id>
     <published>2022-01-07T11:48:43.000Z</published>
-    <updated>2022-01-07T12:51:24.757Z</updated>
+    <updated>2022-01-08T09:26:59.813Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="VS-code使用"><a href="#VS-code使用" class="headerlink" title="VS code使用"></a>VS code使用</h1><h2 id="打开侧边预览"><a href="#打开侧边预览" class="headerlink" title="打开侧边预览"></a>打开侧边预览</h2><p>&ensp;&ensp; ctrl+shift+p -&gt; 输入markdown -&gt; 打开侧边预览 -&gt; ok</p><h1 id="markdown语法"><a href="#markdown语法" class="headerlink" title="markdown语法"></a>markdown语法</h1><ul><li><p>”#+空格+文字“  一级标题</p></li><li><p>“##+空格+文字”  二级标题</p></li><li><p>“###+空格+文字”  三级标题</p></li><li><p>段首空格的显示：“&amp;+ensp+;+空格+文字”</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="VS-code使用"><a href="#VS-code使用" class="headerlink" title="VS code使用"></a>VS code使用</h1><h2 id="打开侧边预览"><a href="#打开侧边预览" class="headerlink" title="打开侧边预览"></a>打开侧边预览</h2><p>&ensp;&ensp; ctrl+shift+p -&gt; 输入markdown -&gt; 打开侧边预览 -&gt; ok</p><h1 id="markdown语法"><a href="#markdown语法" class="headerlink" title="markdown语法"></a>markdown语法</h1><ul><li><p>”#+空格+文字“  一级标题</p></li><li><p>“##+空格+文字”  二级标题</p></li><li><p>“###+空格+文字”  三级标题</p></li><li><p>段首空格的显示：“&amp;+ensp+;+空格+文字”</p></li><li><p>添加封面：在三道杠啊上面添加“cover:+空格+图片网址”</p></li></ul>]]></content>
     
     
       
