@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-08T12:48:24.393Z</updated>
+  <updated>2022-01-08T13:39:27.683Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2022/01/07/Crispr-cas9/"/>
     <id>http://example.com/2022/01/07/Crispr-cas9/</id>
     <published>2022-01-07T13:10:08.000Z</published>
-    <updated>2022-01-08T12:48:24.393Z</updated>
+    <updated>2022-01-08T13:39:27.683Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h1><h2 id="基因编辑技术的发展"><a href="#基因编辑技术的发展" class="headerlink" title="基因编辑技术的发展"></a>基因编辑技术的发展</h2><ul><li>第一代： ZFN</li><li>第二代： TELEN</li><li>第三代： Crispr/cas9<h2 id="背景：基因修复的机制"><a href="#背景：基因修复的机制" class="headerlink" title="背景：基因修复的机制"></a>背景：基因修复的机制</h2></li><li>NHEJ(Non-homologous end joining)非同源性末端接合</li><li>HDR(homology directed repair)同源重组修复<h3 id="ZFN"><a href="#ZFN" class="headerlink" title="ZFN"></a>ZFN</h3><h3 id="TELEN"><a href="#TELEN" class="headerlink" title="TELEN"></a>TELEN</h3><h3 id="Crispr-cas9"><a href="#Crispr-cas9" class="headerlink" title="Crispr/cas9"></a>Crispr/cas9</h3><h4 id="crispr序列的发现"><a href="#crispr序列的发现" class="headerlink" title="crispr序列的发现"></a>crispr序列的发现</h4><h4 id="crispr-cas系统的生物学作用"><a href="#crispr-cas系统的生物学作用" class="headerlink" title="crispr/cas系统的生物学作用"></a>crispr/cas系统的生物学作用</h4></li></ul><h1 id="原理-crispr-cas系统的作用机制"><a href="#原理-crispr-cas系统的作用机制" class="headerlink" title="原理(crispr/cas系统的作用机制)"></a>原理(crispr/cas系统的作用机制)</h1><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h1><h2 id="基因编辑技术的发展"><a href="#基因编辑技术的发展" class="headerlink" title="基因编辑技术的发展"></a>基因编辑技术的发展</h2><ul><li>第一代： ZFN</li><li>第二代： TELEN</li><li>第三代： Crispr/cas9<h2 id="背景：基因修复的机制"><a href="#背景：基因修复的机制" class="headerlink" title="背景：基因修复的机制"></a>背景：基因修复的机制</h2></li><li>NHEJ(Non-homologous end joining)非同源性末端接合：NHEJ修复机制不需要任何模板，修复蛋白直接将双股断裂的DNA末端彼此拉近，在DNA连接酶的帮助下重新接合。</li><li>HDR(homology directed repair)同源重组修复：当细胞核内存在与损伤DNA同源的DNA片段时，HDR才能发生。</li></ul><p>&ensp;&ensp; 通过对比可以发现NHEJ的机制简单又不依靠模板，因此NHEJ的活性相对于HDR高出很多。但是NHEJ修复出错的概率较高，容易造成移码突变等。</p><h3 id="ZFN"><a href="#ZFN" class="headerlink" title="ZFN"></a>ZFN</h3><h3 id="TELEN"><a href="#TELEN" class="headerlink" title="TELEN"></a>TELEN</h3><h3 id="Crispr-cas9"><a href="#Crispr-cas9" class="headerlink" title="Crispr/cas9"></a>Crispr/cas9</h3><h4 id="crispr序列的发现"><a href="#crispr序列的发现" class="headerlink" title="crispr序列的发现"></a>crispr序列的发现</h4><h4 id="crispr-cas系统的生物学作用"><a href="#crispr-cas系统的生物学作用" class="headerlink" title="crispr/cas系统的生物学作用"></a>crispr/cas系统的生物学作用</h4><h1 id="原理-crispr-cas系统的作用机制"><a href="#原理-crispr-cas系统的作用机制" class="headerlink" title="原理(crispr/cas系统的作用机制)"></a>原理(crispr/cas系统的作用机制)</h1><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1>]]></content>
     
     
       
